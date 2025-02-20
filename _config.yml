@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic_3.png"
   name             : "Jules L'Hostis"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at UMET"
