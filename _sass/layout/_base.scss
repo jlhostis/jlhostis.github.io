@@ -152,7 +152,7 @@ td > code {
 
   &:before, &:after {
     letter-spacing: -0.2em;
-    content: "\00a0"; /* non-breaking space*/
+    // content: "\00a0"; /* non-breaking space*/
   }
 }
 
@@ -162,11 +162,6 @@ a > code {
 
 pre > code {
   color: var(--global-code-text-color);
-}
-
-pre > code::after {
-  content: none !important;
-  display: none !important;
 }
 
 /* horizontal rule */
