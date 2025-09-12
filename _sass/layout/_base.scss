@@ -139,7 +139,6 @@ a > code,
 figcaption > code,
 li > code,
 p > code,
-pre > code,
 td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
@@ -152,7 +151,23 @@ td > code {
 
   &:before, &:after {
     letter-spacing: -0.2em;
-    // content: "\00a0"; /* non-breaking space*/
+    content: "\00a0"; /* non-breaking space*/
+  }
+}
+
+pre > code {
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+  font-size: $type-size-6;
+  background: var(--global-code-background-color);
+  // border: 1px solid var(--global-thead-color);
+  // border-radius: $border-radius;
+  // box-shadow: $box-shadow;
+  color: var(--global-code-text-color);
+
+  &:before, &:after {
+    letter-spacing: -0.2em;
+    content: "\00a0"; /* non-breaking space*/
   }
 }
 
