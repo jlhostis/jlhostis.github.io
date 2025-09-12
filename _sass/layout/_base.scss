@@ -164,6 +164,11 @@ pre > code {
   color: var(--global-code-text-color);
 }
 
+pre > code::after {
+  content: none !important;
+  display: none !important;
+}
+
 /* horizontal rule */
 
 hr {
