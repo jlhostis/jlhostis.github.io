@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Materials Science, Centrale Lille, France, 2025
+  * [“Microstructure evolution during wire-arc additive manufacturing of a martensitic stainless steel: coupling between experience and modelisation”](https://theses.fr/s306187)
+  * Under supervision of Marie-Noëlle Avettand-Fènoël and Ludovic Thuinet at the [UMET](http://https://umet.univ-lille.fr/) lab
+* Dipl. Ing. in Materials Science, Polytech Lille, France, 2021
 
 Work experience
 ======
