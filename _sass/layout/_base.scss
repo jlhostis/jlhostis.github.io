@@ -156,6 +156,14 @@ td > code {
   }
 }
 
+a > code {
+    color: inherit;
+}
+
+pre > code {
+  color: var(--global-code-text-color);
+}
+
 /* horizontal rule */
 
 hr {
