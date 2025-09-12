@@ -133,18 +133,6 @@ tt, code, kbd, samp, pre {
 
 pre {
   overflow-x: auto; /* add scrollbars to wide code blocks*/
-  margin-top: 0;
-  margin-bottom: 1.3em; // ou ajuste selon ton besoin
-  line-height: 1.4;
-}
-
-pre > code {
-  display: block;
-  padding-top: 0;
-  padding-bottom: 0;
-  &:before, &:after {
-    content: none;
-  }
 }
 
 a > code,
