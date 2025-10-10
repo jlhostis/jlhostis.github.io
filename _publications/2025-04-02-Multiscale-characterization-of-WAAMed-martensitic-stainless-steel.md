@@ -6,8 +6,8 @@ permalink: /publication/2025-04-02-Multiscale-characterization-of-WAAMed-martens
 excerpt: 'This article presents the experimental part of my Ph.D. Thesis and is freely available as an Open-Access article on Acta Materialia's website.'
 date: 2025-04-02
 venue: 'Acta Materialia'
-paperurl: '  url = {https://www.sciencedirect.com/science/article/pii/S1359645425002630}'
-citation: '[1] J. L’Hostis, L. Thuinet, E. Cadel, et M.-N. Avettand-Fènoël, « Multiscale characterization of WAAMed martensitic stainless steel: Correlation between experimental AM thermal cycles, microstructural evolution and mechanical properties », <i>Acta Materialia</i>, p. 120972, avr. 2025, doi: 10.1016/j.actamat.2025.120972.'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1359645425002630'
+citation: 'J. L’Hostis, L. Thuinet, E. Cadel, et M.-N. Avettand-Fènoël, « Multiscale characterization of WAAMed martensitic stainless steel: Correlation between experimental AM thermal cycles, microstructural evolution and mechanical properties », <i>Acta Materialia</i>, p. 120972, avr. 2025, doi: 10.1016/j.actamat.2025.120972.'
 ---
 
 This article presents the experimental part of my Ph.D. Thesis and is freely available as an Open-Access article on Acta Materialia's website.
