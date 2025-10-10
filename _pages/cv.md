@@ -20,30 +20,34 @@ Education
 
 Work experience
 ======
-<!-- * *06/2025-present:* Post-Doc at Laboratoire George Friedel (LGF, École des Mines de Saint-Étienne) **"Development of C and N-doped high entropy alloys and comparison between the conventional and LPBFed microstructure and mechanical properties"**
+* **Post-Doc** at Laboratoire George Friedel (LGF, École des Mines de Saint-Étienne) **"Development of C and N-doped high entropy alloys and comparison between the conventional and LPBFed microstructure and mechanical properties"** *(Jun. 2025 - present)*
   * Optimization of equilibrium alloy composition with TC-Python
-  * Comparison of microstructures and mechanical properties between cast/wrought and LPBFed Co-free HEAs with C, N and C/N doping -->
+  * Comparison of microstructures and mechanical properties between cast/wrought and LPBFed Co-free HEAs with C, N and C/N doping
 
-* *10/2021-04/2025:* PhD at Unité Matériaux et Transformations, (UMET, Centrale Lille) **"Microstructure evolution during wire-arc additive manufacturing of a martensitic stainless steel: coupling between experience and modelisation"**
-  * Complete multiscale characterization of WAAMed thin walls to understand the microstructure formation mechanisms during the building process: microstructure overview, post-processing of EBSD maps, mechanical testing
-  * FORTRAN phase-field code adaptation and development for the coupled modeling of the martensite transformation and the diffusion of carbon during AM thermal cycles: 2 Bain variants martensitic transformation simulation, full CALPHAD description of phases for temperature and composition dependencies
-  * Teaching and supervision
-  * Scientific communication
+* **PhD Candidate** at Unité Matériaux et Transformations (UMET, Centrale Lille): **"Microstructure evolution during wire-arc additive manufacturing of a martensitic stainless steel: coupling between experience and modelisation"** *(Oct. 2021 - Apr. 2025)*
+  * **Complete multiscale characterization of WAAMed thin walls** to understand the microstructure formation mechanisms during the building process:
+    * Microstructure overview: OM, XRD, dilatometry, SEM, EBSD, TEM, APT
+    * Post-processing of EBSD maps: grain size statistics, parent austenite grain reconstruction with MTEX
+    * Mechanical testing: hardness, tensile tests
+  * **FORTRAN phase-field code adaptation and development** for the coupled modeling of the martensite transformation and the diffusion of carbon during AM thermal cycles: 
+    *  Bain variants martensitic transformation simulation
+    *  Full CALPHAD description of phases for temperature and composition dependencies
+  * **Teaching and supervision**
+    * Supervision of a 5th year engineer intern
+    * Teaching assistant at Polytech Lille: delivery of lecture on "Material and energy balances for industrial processes" to 3rd year students (2h), tutoring (6h) and exam grading
+    * Participation to the "Fête de la science 2024"
+  * **Scientific communication**
+    * 2 oral presentations at national and international conferences
+    * Writing and submission of an experimental research article, and writing of a simulation research article
+    * Organisation and presentations at internal seminars with non-permanent staff
+    * Participation in the organization of the *Matériaux 2022* congress in Lille
 
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **FabLab Manager** at Polytech Lille's FabLab ([the fabricarium](https://fabricarium-fabmanager.polytech-lille.fr/)) *(May 2019 - Apr. 2021)*
+  * Teaching machine operation (3D printer, laser cutting machine, digital embroidery machine, workshop tools)
+  * Project guidance
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Intern** at Kherys Group (Tourcoing) *(Jun. 2019 - Jul. 2019)*
+  * Realization of the [assembly manual](https://shop.tizyx.fr/telecharger/evy_montage.pdf) 2 and design of structural elements of a 3D printer
   
 Skills
 ======
