@@ -7,7 +7,7 @@ excerpt: "This article presents the experimental part of my Ph.D. Thesis and is 
 date: 2025-04-02
 venue: 'Acta Materialia'
 paperurl: 'https://doi.org/10.1016/j.actamat.2025.120972'
-citation: 'J. L’Hostis, L. Thuinet, E. Cadel, et M.-N. Avettand-Fènoël, « Multiscale characterization of WAAMed martensitic stainless steel: Correlation between experimental AM thermal cycles, microstructural evolution and mechanical properties », <i>Acta Materialia</i>, p. 120972, avr. 2025, doi: 10.1016/j.actamat.2025.120972.'
+citation: 'J. L’Hostis, L. Thuinet, E. Cadel, et M.-N. Avettand-Fènoël, « Multiscale characterization of WAAMed martensitic stainless steel: Correlation between experimental AM thermal cycles, microstructural evolution and mechanical properties », <i>Acta Materialia</i>, p. 120972, apr. 2025, doi: 10.1016/j.actamat.2025.120972.'
 ---
 
 This article presents the experimental part of my Ph.D. Thesis and is freely available as an Open-Access article on Acta Materialia's website.
